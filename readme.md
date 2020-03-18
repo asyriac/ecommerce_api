@@ -4,7 +4,7 @@ To get the Node server running locally:
 
 - Clone this repo
 - npm install to install all required dependencies
-- Install MongoDB Community Edition (instructions) and run it by executing mongod
+- Install MongoDB
 - npm run start the local server
 
 # Application Structure
