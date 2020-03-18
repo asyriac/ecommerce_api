@@ -14,6 +14,7 @@ To get the Node server running locally:
 - config/ - This folder contains configuration for mongodb.
 - routes/ - This folder contains the route definitions for our API.
 - models/ - This folder contains the schema definitions for our Mongoose models.
+- controllers/ - This folder contains the actions to be performed on the routes.
 
 # API
 
