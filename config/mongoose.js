@@ -1,5 +1,7 @@
+// Including modules
 const mongoose = require("mongoose");
 
+// Connecting to the DB
 mongoose.connect("mongodb://localhost/ecommerce", { useUnifiedTopology: true, useNewUrlParser: true });
 
 const db = mongoose.connection;
